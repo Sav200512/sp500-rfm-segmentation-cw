@@ -1,0 +1,10 @@
+{
+  "download_time_utc": "2026-11-11T04:13:25.393914+00:00",
+  "start": "2021-01-01",
+  "end_exclusive": "2025-01-01",
+  "benchmark": "^GSPC",
+  "yfinance": "0.2.66",
+  "pandas": "2.2.3",
+  "python": "3.13.18",
+  "tickers_requested": 503
+}

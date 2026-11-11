@@ -1,0 +1,504 @@
+Symbol,Yahoo_Symbol,Security,GICS Sector,Retrieved_On
+MMM,MMM,3M,Industrials,2026-11-11 04:12 UTC
+AOS,AOS,A. O. Smith,Industrials,2026-11-11 04:12 UTC
+ABT,ABT,Abbott Laboratories,Health Care,2026-11-11 04:12 UTC
+ABBV,ABBV,AbbVie,Health Care,2026-11-11 04:12 UTC
+ACN,ACN,Accenture,Information Technology,2026-11-11 04:12 UTC
+ADBE,ADBE,Adobe Inc.,Information Technology,2026-11-11 04:12 UTC
+AMD,AMD,Advanced Micro Devices,Information Technology,2026-11-11 04:12 UTC
+AES,AES,AES Corporation,Utilities,2026-11-11 04:12 UTC
+AFL,AFL,Aflac,Financials,2026-11-11 04:12 UTC
+A,A,Agilent Technologies,Health Care,2026-11-11 04:12 UTC
+APD,APD,Air Products,Materials,2026-11-11 04:12 UTC
+ABNB,ABNB,Airbnb,Consumer Discretionary,2026-11-11 04:12 UTC
+AKAM,AKAM,Akamai Technologies,Information Technology,2026-11-11 04:12 UTC
+ALB,ALB,Albemarle Corporation,Materials,2026-11-11 04:12 UTC
+ARE,ARE,Alexandria Real Estate Equities,Real Estate,2026-11-11 04:12 UTC
+ALGN,ALGN,Align Technology,Health Care,2026-11-11 04:12 UTC
+ALLE,ALLE,Allegion,Industrials,2026-11-11 04:12 UTC
+LNT,LNT,Alliant Energy,Utilities,2026-11-11 04:12 UTC
+ALL,ALL,Allstate,Financials,2026-11-11 04:12 UTC
+GOOGL,GOOGL,Alphabet Inc. (Class A),Communication Services,2026-11-11 04:12 UTC
+GOOG,GOOG,Alphabet Inc. (Class C),Communication Services,2026-11-11 04:12 UTC
+MO,MO,Altria,Consumer Staples,2026-11-11 04:12 UTC
+AMZN,AMZN,Amazon,Consumer Discretionary,2026-11-11 04:12 UTC
+AMCR,AMCR,Amcor,Materials,2026-11-11 04:12 UTC
+AEE,AEE,Ameren,Utilities,2026-11-11 04:12 UTC
+AEP,AEP,American Electric Power,Utilities,2026-11-11 04:12 UTC
+AXP,AXP,American Express,Financials,2026-11-11 04:12 UTC
+AIG,AIG,American International Group,Financials,2026-11-11 04:12 UTC
+AMT,AMT,American Tower,Real Estate,2026-11-11 04:12 UTC
+AWK,AWK,American Water Works,Utilities,2026-11-11 04:12 UTC
+AMP,AMP,Ameriprise Financial,Financials,2026-11-11 04:12 UTC
+AME,AME,Ametek,Industrials,2026-11-11 04:12 UTC
+AMGN,AMGN,Amgen,Health Care,2026-11-11 04:12 UTC
+APH,APH,Amphenol,Information Technology,2026-11-11 04:12 UTC
+ADI,ADI,Analog Devices,Information Technology,2026-11-11 04:12 UTC
+AON,AON,Aon plc,Financials,2026-11-11 04:12 UTC
+APA,APA,APA Corporation,Energy,2026-11-11 04:12 UTC
+APO,APO,Apollo Global Management,Financials,2026-11-11 04:12 UTC
+AAPL,AAPL,Apple Inc.,Information Technology,2026-11-11 04:12 UTC
+AMAT,AMAT,Applied Materials,Information Technology,2026-11-11 04:12 UTC
+APP,APP,AppLovin,Communication Services,2026-11-11 04:12 UTC
+APTV,APTV,Aptiv,Consumer Discretionary,2026-11-11 04:12 UTC
+ACGL,ACGL,Arch Capital Group,Financials,2026-11-11 04:12 UTC
+ADM,ADM,Archer Daniels Midland,Consumer Staples,2026-11-11 04:12 UTC
+ARES,ARES,Ares Management,Financials,2026-11-11 04:12 UTC
+ANET,ANET,Arista Networks,Information Technology,2026-11-11 04:12 UTC
+AJG,AJG,Arthur J. Gallagher & Co.,Financials,2026-11-11 04:12 UTC
+AIZ,AIZ,Assurant,Financials,2026-11-11 04:12 UTC
+T,T,AT&T,Communication Services,2026-11-11 04:12 UTC
+ATO,ATO,Atmos Energy,Utilities,2026-11-11 04:12 UTC
+ADSK,ADSK,Autodesk,Information Technology,2026-11-11 04:12 UTC
+ADP,ADP,Automatic Data Processing,Industrials,2026-11-11 04:12 UTC
+AZO,AZO,AutoZone,Consumer Discretionary,2026-11-11 04:12 UTC
+AVY,AVY,Avery Dennison,Materials,2026-11-11 04:12 UTC
+AXON,AXON,Axon Enterprise,Industrials,2026-11-11 04:12 UTC
+BKR,BKR,Baker Hughes,Energy,2026-11-11 04:12 UTC
+BALL,BALL,Ball Corporation,Materials,2026-11-11 04:12 UTC
+BAC,BAC,Bank of America,Financials,2026-11-11 04:12 UTC
+BAX,BAX,Baxter International,Health Care,2026-11-11 04:12 UTC
+BDX,BDX,Becton Dickinson,Health Care,2026-11-11 04:12 UTC
+BRK.B,BRK-B,Berkshire Hathaway,Financials,2026-11-11 04:12 UTC
+BBY,BBY,Best Buy,Consumer Discretionary,2026-11-11 04:12 UTC
+TECH,TECH,Bio-Techne,Health Care,2026-11-11 04:12 UTC
+BIIB,BIIB,Biogen,Health Care,2026-11-11 04:12 UTC
+BLK,BLK,BlackRock,Financials,2026-11-11 04:12 UTC
+BX,BX,Blackstone Inc.,Financials,2026-11-11 04:12 UTC
+XYZ,XYZ,"Block, Inc.",Financials,2026-11-11 04:12 UTC
+BE,BE,Bloom Energy,Industrials,2026-11-11 04:12 UTC
+BNY,BNY,BNY Mellon,Financials,2026-11-11 04:12 UTC
+BA,BA,Boeing,Industrials,2026-11-11 04:12 UTC
+BKNG,BKNG,Booking Holdings,Consumer Discretionary,2026-11-11 04:12 UTC
+BSX,BSX,Boston Scientific,Health Care,2026-11-11 04:12 UTC
+BMY,BMY,Bristol Myers Squibb,Health Care,2026-11-11 04:12 UTC
+AVGO,AVGO,Broadcom,Information Technology,2026-11-11 04:12 UTC
+BR,BR,Broadridge Financial Solutions,Industrials,2026-11-11 04:12 UTC
+BRO,BRO,Brown & Brown,Financials,2026-11-11 04:12 UTC
+BF.B,BF-B,Brown–Forman,Consumer Staples,2026-11-11 04:12 UTC
+BG,BG,Bunge Global,Consumer Staples,2026-11-11 04:12 UTC
+BXP,BXP,"BXP, Inc.",Real Estate,2026-11-11 04:12 UTC
+CHRW,CHRW,C.H. Robinson,Industrials,2026-11-11 04:12 UTC
+CDNS,CDNS,Cadence Design Systems,Information Technology,2026-11-11 04:12 UTC
+CPT,CPT,Camden Property Trust,Real Estate,2026-11-11 04:12 UTC
+COF,COF,Capital One,Financials,2026-11-11 04:12 UTC
+CAH,CAH,Cardinal Health,Health Care,2026-11-11 04:12 UTC
+CCL,CCL,Carnival Corporation,Consumer Discretionary,2026-11-11 04:12 UTC
+CARR,CARR,Carrier Global,Industrials,2026-11-11 04:12 UTC
+CVNA,CVNA,Carvana,Consumer Discretionary,2026-11-11 04:12 UTC
+CASY,CASY,Casey's,Consumer Staples,2026-11-11 04:12 UTC
+CAT,CAT,Caterpillar Inc.,Industrials,2026-11-11 04:12 UTC
+CBOE,CBOE,Cboe Global Markets,Financials,2026-11-11 04:12 UTC
+CBRE,CBRE,CBRE Group,Real Estate,2026-11-11 04:12 UTC
+CDW,CDW,CDW Corporation,Information Technology,2026-11-11 04:12 UTC
+COR,COR,Cencora,Health Care,2026-11-11 04:12 UTC
+CNC,CNC,Centene Corporation,Health Care,2026-11-11 04:12 UTC
+CNP,CNP,CenterPoint Energy,Utilities,2026-11-11 04:12 UTC
+CF,CF,CF Industries,Materials,2026-11-11 04:12 UTC
+CRL,CRL,Charles River Laboratories,Health Care,2026-11-11 04:12 UTC
+SCHW,SCHW,Charles Schwab Corporation,Financials,2026-11-11 04:12 UTC
+CHTR,CHTR,Charter Communications,Communication Services,2026-11-11 04:12 UTC
+CVX,CVX,Chevron Corporation,Energy,2026-11-11 04:12 UTC
+CMG,CMG,Chipotle Mexican Grill,Consumer Discretionary,2026-11-11 04:12 UTC
+CB,CB,Chubb Limited,Financials,2026-11-11 04:12 UTC
+CHD,CHD,Church & Dwight,Consumer Staples,2026-11-11 04:12 UTC
+CIEN,CIEN,Ciena,Information Technology,2026-11-11 04:12 UTC
+CI,CI,Cigna,Health Care,2026-11-11 04:12 UTC
+CINF,CINF,Cincinnati Financial,Financials,2026-11-11 04:12 UTC
+CTAS,CTAS,Cintas,Industrials,2026-11-11 04:12 UTC
+CSCO,CSCO,Cisco,Information Technology,2026-11-11 04:12 UTC
+C,C,Citigroup,Financials,2026-11-11 04:12 UTC
+CFG,CFG,Citizens Financial Group,Financials,2026-11-11 04:12 UTC
+CLX,CLX,Clorox,Consumer Staples,2026-11-11 04:12 UTC
+CME,CME,CME Group,Financials,2026-11-11 04:12 UTC
+CMS,CMS,CMS Energy,Utilities,2026-11-11 04:12 UTC
+KO,KO,Coca-Cola Company (The),Consumer Staples,2026-11-11 04:12 UTC
+CTSH,CTSH,Cognizant,Information Technology,2026-11-11 04:12 UTC
+COHR,COHR,Coherent Corp.,Information Technology,2026-11-11 04:12 UTC
+COIN,COIN,Coinbase,Financials,2026-11-11 04:12 UTC
+CL,CL,Colgate-Palmolive,Consumer Staples,2026-11-11 04:12 UTC
+CMCSA,CMCSA,Comcast,Communication Services,2026-11-11 04:12 UTC
+FIX,FIX,Comfort Systems USA,Industrials,2026-11-11 04:12 UTC
+COP,COP,ConocoPhillips,Energy,2026-11-11 04:12 UTC
+ED,ED,Consolidated Edison,Utilities,2026-11-11 04:12 UTC
+STZ,STZ,Constellation Brands,Consumer Staples,2026-11-11 04:12 UTC
+CEG,CEG,Constellation Energy,Utilities,2026-11-11 04:12 UTC
+COO,COO,Cooper Companies (The),Health Care,2026-11-11 04:12 UTC
+CPRT,CPRT,Copart,Industrials,2026-11-11 04:12 UTC
+GLW,GLW,Corning Inc.,Information Technology,2026-11-11 04:12 UTC
+CPAY,CPAY,Corpay,Financials,2026-11-11 04:12 UTC
+CSGP,CSGP,CoStar Group,Real Estate,2026-11-11 04:12 UTC
+COST,COST,Costco,Consumer Staples,2026-11-11 04:12 UTC
+CRH,CRH,CRH plc,Materials,2026-11-11 04:12 UTC
+CRWD,CRWD,CrowdStrike,Information Technology,2026-11-11 04:12 UTC
+CCI,CCI,Crown Castle,Real Estate,2026-11-11 04:12 UTC
+CSX,CSX,CSX Corporation,Industrials,2026-11-11 04:12 UTC
+CMI,CMI,Cummins,Industrials,2026-11-11 04:12 UTC
+CVS,CVS,CVS Health,Health Care,2026-11-11 04:12 UTC
+DHR,DHR,Danaher Corporation,Health Care,2026-11-11 04:12 UTC
+DRI,DRI,Darden Restaurants,Consumer Discretionary,2026-11-11 04:12 UTC
+DDOG,DDOG,Datadog,Information Technology,2026-11-11 04:12 UTC
+DVA,DVA,DaVita,Health Care,2026-11-11 04:12 UTC
+DECK,DECK,Deckers Brands,Consumer Discretionary,2026-11-11 04:12 UTC
+DE,DE,Deere & Company,Industrials,2026-11-11 04:12 UTC
+DELL,DELL,Dell Technologies,Information Technology,2026-11-11 04:12 UTC
+DAL,DAL,Delta Air Lines,Industrials,2026-11-11 04:12 UTC
+DVN,DVN,Devon Energy,Energy,2026-11-11 04:12 UTC
+DXCM,DXCM,Dexcom,Health Care,2026-11-11 04:12 UTC
+FANG,FANG,Diamondback Energy,Energy,2026-11-11 04:12 UTC
+DLR,DLR,Digital Realty,Real Estate,2026-11-11 04:12 UTC
+DG,DG,Dollar General,Consumer Staples,2026-11-11 04:12 UTC
+DLTR,DLTR,Dollar Tree,Consumer Staples,2026-11-11 04:12 UTC
+D,D,Dominion Energy,Utilities,2026-11-11 04:12 UTC
+DPZ,DPZ,Domino's,Consumer Discretionary,2026-11-11 04:12 UTC
+DASH,DASH,DoorDash,Consumer Discretionary,2026-11-11 04:12 UTC
+DOV,DOV,Dover Corporation,Industrials,2026-11-11 04:12 UTC
+DOW,DOW,Dow Inc.,Materials,2026-11-11 04:12 UTC
+DHI,DHI,D. R. Horton,Consumer Discretionary,2026-11-11 04:12 UTC
+DTE,DTE,DTE Energy,Utilities,2026-11-11 04:12 UTC
+DUK,DUK,Duke Energy,Utilities,2026-11-11 04:12 UTC
+DD,DD,DuPont,Industrials,2026-11-11 04:12 UTC
+ETN,ETN,Eaton Corporation,Industrials,2026-11-11 04:12 UTC
+EBAY,EBAY,eBay Inc.,Consumer Discretionary,2026-11-11 04:12 UTC
+ECHO,ECHO,EchoStar,Communication Services,2026-11-11 04:12 UTC
+ECL,ECL,Ecolab,Materials,2026-11-11 04:12 UTC
+EIX,EIX,Edison International,Utilities,2026-11-11 04:12 UTC
+EW,EW,Edwards Lifesciences,Health Care,2026-11-11 04:12 UTC
+ELV,ELV,Elevance Health,Health Care,2026-11-11 04:12 UTC
+EME,EME,Emcor,Industrials,2026-11-11 04:12 UTC
+EMR,EMR,Emerson Electric,Industrials,2026-11-11 04:12 UTC
+ETR,ETR,Entergy,Utilities,2026-11-11 04:12 UTC
+EOG,EOG,EOG Resources,Energy,2026-11-11 04:12 UTC
+EQT,EQT,EQT Corporation,Energy,2026-11-11 04:12 UTC
+EFX,EFX,Equifax,Industrials,2026-11-11 04:12 UTC
+EQIX,EQIX,Equinix,Real Estate,2026-11-11 04:12 UTC
+ERIE,ERIE,Erie Indemnity,Financials,2026-11-11 04:12 UTC
+ESS,ESS,Essex Property Trust,Real Estate,2026-11-11 04:12 UTC
+EL,EL,Estée Lauder Companies (The),Consumer Staples,2026-11-11 04:12 UTC
+EG,EG,Everest Group,Financials,2026-11-11 04:12 UTC
+EVRG,EVRG,Evergy,Utilities,2026-11-11 04:12 UTC
+P,P,Everpure,Information Technology,2026-11-11 04:12 UTC
+ES,ES,Eversource Energy,Utilities,2026-11-11 04:12 UTC
+EXC,EXC,Exelon,Utilities,2026-11-11 04:12 UTC
+EXE,EXE,Expand Energy,Energy,2026-11-11 04:12 UTC
+EXPE,EXPE,Expedia Group,Consumer Discretionary,2026-11-11 04:12 UTC
+EXPD,EXPD,Expeditors International,Industrials,2026-11-11 04:12 UTC
+EXR,EXR,Extra Space Storage,Real Estate,2026-11-11 04:12 UTC
+XOM,XOM,ExxonMobil,Energy,2026-11-11 04:12 UTC
+FFIV,FFIV,"F5, Inc.",Information Technology,2026-11-11 04:12 UTC
+FDS,FDS,FactSet,Financials,2026-11-11 04:12 UTC
+FICO,FICO,Fair Isaac,Information Technology,2026-11-11 04:12 UTC
+FAST,FAST,Fastenal,Industrials,2026-11-11 04:12 UTC
+FRT,FRT,Federal Realty Investment Trust,Real Estate,2026-11-11 04:12 UTC
+FDX,FDX,FedEx,Industrials,2026-11-11 04:12 UTC
+FDXF,FDXF,FedEx Freight,Industrials,2026-11-11 04:12 UTC
+FERG,FERG,Ferguson Enterprises,Industrials,2026-11-11 04:12 UTC
+FIS,FIS,Fidelity National Information Services,Financials,2026-11-11 04:12 UTC
+FITB,FITB,Fifth Third Bancorp,Financials,2026-11-11 04:12 UTC
+FSLR,FSLR,First Solar,Information Technology,2026-11-11 04:12 UTC
+FE,FE,FirstEnergy,Utilities,2026-11-11 04:12 UTC
+FISV,FISV,Fiserv,Financials,2026-11-11 04:12 UTC
+FLEX,FLEX,Flex Ltd.,Information Technology,2026-11-11 04:12 UTC
+F,F,Ford Motor Company,Consumer Discretionary,2026-11-11 04:12 UTC
+FTNT,FTNT,Fortinet,Information Technology,2026-11-11 04:12 UTC
+FTV,FTV,Fortive,Industrials,2026-11-11 04:12 UTC
+FOXA,FOXA,Fox Corporation (Class A),Communication Services,2026-11-11 04:12 UTC
+FOX,FOX,Fox Corporation (Class B),Communication Services,2026-11-11 04:12 UTC
+BEN,BEN,Franklin Resources,Financials,2026-11-11 04:12 UTC
+FCX,FCX,Freeport-McMoRan,Materials,2026-11-11 04:12 UTC
+GRMN,GRMN,Garmin,Consumer Discretionary,2026-11-11 04:12 UTC
+IT,IT,Gartner,Information Technology,2026-11-11 04:12 UTC
+GE,GE,GE Aerospace,Industrials,2026-11-11 04:12 UTC
+GEHC,GEHC,GE HealthCare,Health Care,2026-11-11 04:12 UTC
+GEV,GEV,GE Vernova,Industrials,2026-11-11 04:12 UTC
+GEN,GEN,Gen Digital,Information Technology,2026-11-11 04:12 UTC
+GNRC,GNRC,Generac,Industrials,2026-11-11 04:12 UTC
+GD,GD,General Dynamics,Industrials,2026-11-11 04:12 UTC
+GIS,GIS,General Mills,Consumer Staples,2026-11-11 04:12 UTC
+GM,GM,General Motors,Consumer Discretionary,2026-11-11 04:12 UTC
+GPC,GPC,Genuine Parts Company,Consumer Discretionary,2026-11-11 04:12 UTC
+GILD,GILD,Gilead Sciences,Health Care,2026-11-11 04:12 UTC
+GPN,GPN,Global Payments,Financials,2026-11-11 04:12 UTC
+GL,GL,Globe Life,Financials,2026-11-11 04:12 UTC
+GDDY,GDDY,GoDaddy,Information Technology,2026-11-11 04:12 UTC
+GS,GS,Goldman Sachs,Financials,2026-11-11 04:12 UTC
+HAL,HAL,Halliburton,Energy,2026-11-11 04:12 UTC
+HIG,HIG,Hartford (The),Financials,2026-11-11 04:12 UTC
+HAS,HAS,Hasbro,Consumer Discretionary,2026-11-11 04:12 UTC
+HCA,HCA,HCA Healthcare,Health Care,2026-11-11 04:12 UTC
+DOC,DOC,Healthpeak Properties,Real Estate,2026-11-11 04:12 UTC
+HSIC,HSIC,Henry Schein,Health Care,2026-11-11 04:12 UTC
+HSY,HSY,Hershey Company (The),Consumer Staples,2026-11-11 04:12 UTC
+HPE,HPE,Hewlett Packard Enterprise,Information Technology,2026-11-11 04:12 UTC
+HLT,HLT,Hilton Worldwide,Consumer Discretionary,2026-11-11 04:12 UTC
+HD,HD,Home Depot (The),Consumer Discretionary,2026-11-11 04:12 UTC
+HONA,HONA,Honeywell Aerospace,Industrials,2026-11-11 04:12 UTC
+HON,HON,Honeywell Technologies,Industrials,2026-11-11 04:12 UTC
+HRL,HRL,Hormel Foods,Consumer Staples,2026-11-11 04:12 UTC
+HST,HST,Host Hotels & Resorts,Real Estate,2026-11-11 04:12 UTC
+HWM,HWM,Howmet Aerospace,Industrials,2026-11-11 04:12 UTC
+HPQ,HPQ,HP Inc.,Information Technology,2026-11-11 04:12 UTC
+HUBB,HUBB,Hubbell Incorporated,Industrials,2026-11-11 04:12 UTC
+HUM,HUM,Humana,Health Care,2026-11-11 04:12 UTC
+HBAN,HBAN,Huntington Bancshares,Financials,2026-11-11 04:12 UTC
+HII,HII,Huntington Ingalls Industries,Industrials,2026-11-11 04:12 UTC
+IBM,IBM,IBM,Information Technology,2026-11-11 04:12 UTC
+IEX,IEX,IDEX Corporation,Industrials,2026-11-11 04:12 UTC
+IDXX,IDXX,Idexx Laboratories,Health Care,2026-11-11 04:12 UTC
+ITW,ITW,Illinois Tool Works,Industrials,2026-11-11 04:12 UTC
+ILMN,ILMN,"Illumina, Inc.",Health Care,2026-11-11 04:12 UTC
+INCY,INCY,Incyte,Health Care,2026-11-11 04:12 UTC
+IR,IR,Ingersoll Rand,Industrials,2026-11-11 04:12 UTC
+PODD,PODD,Insulet Corporation,Health Care,2026-11-11 04:12 UTC
+INTC,INTC,Intel,Information Technology,2026-11-11 04:12 UTC
+IBKR,IBKR,Interactive Brokers,Financials,2026-11-11 04:12 UTC
+ICE,ICE,Intercontinental Exchange,Financials,2026-11-11 04:12 UTC
+IFF,IFF,International Flavors & Fragrances,Materials,2026-11-11 04:12 UTC
+IP,IP,International Paper,Materials,2026-11-11 04:12 UTC
+INTU,INTU,Intuit,Information Technology,2026-11-11 04:12 UTC
+ISRG,ISRG,Intuitive Surgical,Health Care,2026-11-11 04:12 UTC
+IVZ,IVZ,Invesco,Financials,2026-11-11 04:12 UTC
+INVH,INVH,Invitation Homes,Real Estate,2026-11-11 04:12 UTC
+IQV,IQV,IQVIA,Health Care,2026-11-11 04:12 UTC
+IRM,IRM,Iron Mountain,Real Estate,2026-11-11 04:12 UTC
+JBHT,JBHT,J.B. Hunt,Industrials,2026-11-11 04:12 UTC
+JBL,JBL,Jabil,Information Technology,2026-11-11 04:12 UTC
+JKHY,JKHY,Jack Henry & Associates,Financials,2026-11-11 04:12 UTC
+J,J,Jacobs Solutions,Industrials,2026-11-11 04:12 UTC
+JNJ,JNJ,Johnson & Johnson,Health Care,2026-11-11 04:12 UTC
+JCI,JCI,Johnson Controls,Industrials,2026-11-11 04:12 UTC
+JPM,JPM,JPMorgan Chase,Financials,2026-11-11 04:12 UTC
+KDP,KDP,Keurig Dr Pepper,Consumer Staples,2026-11-11 04:12 UTC
+KEY,KEY,KeyCorp,Financials,2026-11-11 04:12 UTC
+KEYS,KEYS,Keysight Technologies,Information Technology,2026-11-11 04:12 UTC
+KMB,KMB,Kimberly-Clark,Consumer Staples,2026-11-11 04:12 UTC
+KIM,KIM,Kimco Realty,Real Estate,2026-11-11 04:12 UTC
+KMI,KMI,Kinder Morgan,Energy,2026-11-11 04:12 UTC
+KKR,KKR,KKR & Co.,Financials,2026-11-11 04:12 UTC
+KLAC,KLAC,KLA Corporation,Information Technology,2026-11-11 04:12 UTC
+KHC,KHC,Kraft Heinz,Consumer Staples,2026-11-11 04:12 UTC
+KR,KR,Kroger,Consumer Staples,2026-11-11 04:12 UTC
+LHX,LHX,L3Harris,Industrials,2026-11-11 04:12 UTC
+LH,LH,Labcorp,Health Care,2026-11-11 04:12 UTC
+LRCX,LRCX,Lam Research,Information Technology,2026-11-11 04:12 UTC
+LVS,LVS,Las Vegas Sands,Consumer Discretionary,2026-11-11 04:12 UTC
+LDOS,LDOS,Leidos,Industrials,2026-11-11 04:12 UTC
+LEN,LEN,Lennar,Consumer Discretionary,2026-11-11 04:12 UTC
+LII,LII,Lennox International,Industrials,2026-11-11 04:12 UTC
+LLY,LLY,Lilly (Eli),Health Care,2026-11-11 04:12 UTC
+LIN,LIN,Linde plc,Materials,2026-11-11 04:12 UTC
+LYV,LYV,Live Nation Entertainment,Communication Services,2026-11-11 04:12 UTC
+LMT,LMT,Lockheed Martin,Industrials,2026-11-11 04:12 UTC
+L,L,Loews Corporation,Financials,2026-11-11 04:12 UTC
+LOW,LOW,Lowe's,Consumer Discretionary,2026-11-11 04:12 UTC
+LULU,LULU,Lululemon Athletica,Consumer Discretionary,2026-11-11 04:12 UTC
+LITE,LITE,Lumentum,Information Technology,2026-11-11 04:12 UTC
+LYB,LYB,LyondellBasell,Materials,2026-11-11 04:12 UTC
+MTB,MTB,M&T Bank,Financials,2026-11-11 04:12 UTC
+MPC,MPC,Marathon Petroleum,Energy,2026-11-11 04:12 UTC
+MAR,MAR,Marriott International,Consumer Discretionary,2026-11-11 04:12 UTC
+MRSH,MRSH,Marsh McLennan,Financials,2026-11-11 04:12 UTC
+MLM,MLM,Martin Marietta Materials,Materials,2026-11-11 04:12 UTC
+MRVL,MRVL,Marvell Technology,Information Technology,2026-11-11 04:12 UTC
+MAS,MAS,Masco,Industrials,2026-11-11 04:12 UTC
+MA,MA,Mastercard,Financials,2026-11-11 04:12 UTC
+MKC,MKC,McCormick & Company,Consumer Staples,2026-11-11 04:12 UTC
+MCD,MCD,McDonald's,Consumer Discretionary,2026-11-11 04:12 UTC
+MCK,MCK,McKesson,Health Care,2026-11-11 04:12 UTC
+MDT,MDT,Medtronic,Health Care,2026-11-11 04:12 UTC
+MRK,MRK,Merck & Co.,Health Care,2026-11-11 04:12 UTC
+META,META,Meta Platforms,Communication Services,2026-11-11 04:12 UTC
+MET,MET,MetLife,Financials,2026-11-11 04:12 UTC
+MTD,MTD,Mettler Toledo,Health Care,2026-11-11 04:12 UTC
+MGM,MGM,MGM Resorts,Consumer Discretionary,2026-11-11 04:12 UTC
+MCHP,MCHP,Microchip Technology,Information Technology,2026-11-11 04:12 UTC
+MU,MU,Micron Technology,Information Technology,2026-11-11 04:12 UTC
+MSFT,MSFT,Microsoft,Information Technology,2026-11-11 04:12 UTC
+MAA,MAA,Mid-America Apartment Communities,Real Estate,2026-11-11 04:12 UTC
+MRNA,MRNA,Moderna,Health Care,2026-11-11 04:12 UTC
+MDLZ,MDLZ,Mondelez International,Consumer Staples,2026-11-11 04:12 UTC
+MPWR,MPWR,Monolithic Power Systems,Information Technology,2026-11-11 04:12 UTC
+MNST,MNST,Monster Beverage,Consumer Staples,2026-11-11 04:12 UTC
+MCO,MCO,Moody's Corporation,Financials,2026-11-11 04:12 UTC
+MS,MS,Morgan Stanley,Financials,2026-11-11 04:12 UTC
+MOS,MOS,Mosaic Company (The),Materials,2026-11-11 04:12 UTC
+MSI,MSI,Motorola Solutions,Information Technology,2026-11-11 04:12 UTC
+MSCI,MSCI,MSCI,Financials,2026-11-11 04:12 UTC
+NDAQ,NDAQ,"Nasdaq, Inc.",Financials,2026-11-11 04:12 UTC
+NTAP,NTAP,NetApp,Information Technology,2026-11-11 04:12 UTC
+NFLX,NFLX,Netflix,Communication Services,2026-11-11 04:12 UTC
+NEM,NEM,Newmont,Materials,2026-11-11 04:12 UTC
+NWSA,NWSA,News Corp (Class A),Communication Services,2026-11-11 04:12 UTC
+NWS,NWS,News Corp (Class B),Communication Services,2026-11-11 04:12 UTC
+NEE,NEE,NextEra Energy,Utilities,2026-11-11 04:12 UTC
+NKE,NKE,"Nike, Inc.",Consumer Discretionary,2026-11-11 04:12 UTC
+NI,NI,NiSource,Utilities,2026-11-11 04:12 UTC
+NDSN,NDSN,Nordson Corporation,Industrials,2026-11-11 04:12 UTC
+NSC,NSC,Norfolk Southern,Industrials,2026-11-11 04:12 UTC
+NTRS,NTRS,Northern Trust,Financials,2026-11-11 04:12 UTC
+NOC,NOC,Northrop Grumman,Industrials,2026-11-11 04:12 UTC
+NCLH,NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,2026-11-11 04:12 UTC
+NRG,NRG,NRG Energy,Utilities,2026-11-11 04:12 UTC
+NUE,NUE,Nucor,Materials,2026-11-11 04:12 UTC
+NVDA,NVDA,Nvidia,Information Technology,2026-11-11 04:12 UTC
+NVR,NVR,"NVR, Inc.",Consumer Discretionary,2026-11-11 04:12 UTC
+NXPI,NXPI,NXP Semiconductors,Information Technology,2026-11-11 04:12 UTC
+ORLY,ORLY,O'Reilly Automotive,Consumer Discretionary,2026-11-11 04:12 UTC
+OXY,OXY,Occidental Petroleum,Energy,2026-11-11 04:12 UTC
+OKTA,OKTA,"Okta, Inc.",Information Technology,2026-11-11 04:12 UTC
+ODFL,ODFL,Old Dominion,Industrials,2026-11-11 04:12 UTC
+OMC,OMC,Omnicom Group,Communication Services,2026-11-11 04:12 UTC
+ON,ON,ON Semiconductor,Information Technology,2026-11-11 04:12 UTC
+OKE,OKE,Oneok,Energy,2026-11-11 04:12 UTC
+ORCL,ORCL,Oracle Corporation,Information Technology,2026-11-11 04:12 UTC
+OTIS,OTIS,Otis Worldwide,Industrials,2026-11-11 04:12 UTC
+PCAR,PCAR,Paccar,Industrials,2026-11-11 04:12 UTC
+PKG,PKG,Packaging Corporation of America,Materials,2026-11-11 04:12 UTC
+PLTR,PLTR,Palantir Technologies,Information Technology,2026-11-11 04:12 UTC
+PANW,PANW,Palo Alto Networks,Information Technology,2026-11-11 04:12 UTC
+PH,PH,Parker Hannifin,Industrials,2026-11-11 04:12 UTC
+PAYX,PAYX,Paychex,Industrials,2026-11-11 04:12 UTC
+PYPL,PYPL,PayPal,Financials,2026-11-11 04:12 UTC
+PNR,PNR,Pentair,Industrials,2026-11-11 04:12 UTC
+PEP,PEP,PepsiCo,Consumer Staples,2026-11-11 04:12 UTC
+PFE,PFE,Pfizer,Health Care,2026-11-11 04:12 UTC
+PCG,PCG,PG&E Corporation,Utilities,2026-11-11 04:12 UTC
+PM,PM,Philip Morris International,Consumer Staples,2026-11-11 04:12 UTC
+PSX,PSX,Phillips 66,Energy,2026-11-11 04:12 UTC
+PNW,PNW,Pinnacle West Capital,Utilities,2026-11-11 04:12 UTC
+PNC,PNC,PNC Financial Services,Financials,2026-11-11 04:12 UTC
+PPG,PPG,PPG Industries,Materials,2026-11-11 04:12 UTC
+PPL,PPL,PPL Corporation,Utilities,2026-11-11 04:12 UTC
+PFG,PFG,Principal Financial Group,Financials,2026-11-11 04:12 UTC
+PG,PG,Procter & Gamble,Consumer Staples,2026-11-11 04:12 UTC
+PGR,PGR,Progressive Corporation,Financials,2026-11-11 04:12 UTC
+PLD,PLD,Prologis,Real Estate,2026-11-11 04:12 UTC
+PRU,PRU,Prudential Financial,Financials,2026-11-11 04:12 UTC
+PTC,PTC,PTC Inc.,Information Technology,2026-11-11 04:12 UTC
+PEG,PEG,Public Service Enterprise Group,Utilities,2026-11-11 04:12 UTC
+PSA,PSA,Public Storage,Real Estate,2026-11-11 04:12 UTC
+PHM,PHM,PulteGroup,Consumer Discretionary,2026-11-11 04:12 UTC
+Q,Q,Qnity Electronics,Information Technology,2026-11-11 04:12 UTC
+QCOM,QCOM,Qualcomm,Information Technology,2026-11-11 04:12 UTC
+PWR,PWR,Quanta Services,Industrials,2026-11-11 04:12 UTC
+DGX,DGX,Quest Diagnostics,Health Care,2026-11-11 04:12 UTC
+RL,RL,Ralph Lauren Corporation,Consumer Discretionary,2026-11-11 04:12 UTC
+RJF,RJF,Raymond James Financial,Financials,2026-11-11 04:12 UTC
+RDDT,RDDT,Reddit,Communication Services,2026-11-11 04:12 UTC
+O,O,Realty Income,Real Estate,2026-11-11 04:12 UTC
+REG,REG,Regency Centers,Real Estate,2026-11-11 04:12 UTC
+REGN,REGN,Regeneron Pharmaceuticals,Health Care,2026-11-11 04:12 UTC
+RF,RF,Regions Financial Corporation,Financials,2026-11-11 04:12 UTC
+RSG,RSG,Republic Services,Industrials,2026-11-11 04:12 UTC
+RMD,RMD,ResMed,Health Care,2026-11-11 04:12 UTC
+RVTY,RVTY,Revvity,Health Care,2026-11-11 04:12 UTC
+HOOD,HOOD,Robinhood Markets,Financials,2026-11-11 04:12 UTC
+ROK,ROK,Rockwell Automation,Industrials,2026-11-11 04:12 UTC
+ROL,ROL,"Rollins, Inc.",Industrials,2026-11-11 04:12 UTC
+ROP,ROP,Roper Technologies,Information Technology,2026-11-11 04:12 UTC
+ROST,ROST,Ross Stores,Consumer Discretionary,2026-11-11 04:12 UTC
+RCL,RCL,Royal Caribbean Group,Consumer Discretionary,2026-11-11 04:12 UTC
+RTX,RTX,RTX Corporation,Industrials,2026-11-11 04:12 UTC
+SPGI,SPGI,S&P Global,Financials,2026-11-11 04:12 UTC
+CRM,CRM,Salesforce,Information Technology,2026-11-11 04:12 UTC
+SNDK,SNDK,Sandisk,Information Technology,2026-11-11 04:12 UTC
+SBAC,SBAC,SBA Communications,Real Estate,2026-11-11 04:12 UTC
+SLB,SLB,Schlumberger,Energy,2026-11-11 04:12 UTC
+STX,STX,Seagate Technology,Information Technology,2026-11-11 04:12 UTC
+SRE,SRE,Sempra,Utilities,2026-11-11 04:12 UTC
+NOW,NOW,ServiceNow,Information Technology,2026-11-11 04:12 UTC
+SHW,SHW,Sherwin-Williams,Materials,2026-11-11 04:12 UTC
+SPG,SPG,Simon Property Group,Real Estate,2026-11-11 04:12 UTC
+SKYD,SKYD,Skydance,Communication Services,2026-11-11 04:12 UTC
+SWKS,SWKS,Skyworks Solutions,Information Technology,2026-11-11 04:12 UTC
+SJM,SJM,J.M. Smucker Company (The),Consumer Staples,2026-11-11 04:12 UTC
+SW,SW,Smurfit Westrock,Materials,2026-11-11 04:12 UTC
+SNA,SNA,Snap-on,Industrials,2026-11-11 04:12 UTC
+SOLV,SOLV,Solventum,Health Care,2026-11-11 04:12 UTC
+SO,SO,Southern Company,Utilities,2026-11-11 04:12 UTC
+LUV,LUV,Southwest Airlines,Industrials,2026-11-11 04:12 UTC
+SWK,SWK,Stanley Black & Decker,Industrials,2026-11-11 04:12 UTC
+SBUX,SBUX,Starbucks,Consumer Discretionary,2026-11-11 04:12 UTC
+STT,STT,State Street Corporation,Financials,2026-11-11 04:12 UTC
+STLD,STLD,Steel Dynamics,Materials,2026-11-11 04:12 UTC
+STE,STE,Steris,Health Care,2026-11-11 04:12 UTC
+SYK,SYK,Stryker Corporation,Health Care,2026-11-11 04:12 UTC
+SMCI,SMCI,Supermicro,Information Technology,2026-11-11 04:12 UTC
+SYF,SYF,Synchrony Financial,Financials,2026-11-11 04:12 UTC
+SNPS,SNPS,Synopsys,Information Technology,2026-11-11 04:12 UTC
+SYY,SYY,Sysco,Consumer Staples,2026-11-11 04:12 UTC
+TMUS,TMUS,T-Mobile US,Communication Services,2026-11-11 04:12 UTC
+TROW,TROW,T. Rowe Price,Financials,2026-11-11 04:12 UTC
+TTWO,TTWO,Take-Two Interactive,Communication Services,2026-11-11 04:12 UTC
+TPR,TPR,"Tapestry, Inc.",Consumer Discretionary,2026-11-11 04:12 UTC
+TRGP,TRGP,Targa Resources,Energy,2026-11-11 04:12 UTC
+TGT,TGT,Target Corporation,Consumer Staples,2026-11-11 04:12 UTC
+TEL,TEL,TE Connectivity,Information Technology,2026-11-11 04:12 UTC
+TDY,TDY,Teledyne Technologies,Information Technology,2026-11-11 04:12 UTC
+TER,TER,Teradyne,Information Technology,2026-11-11 04:12 UTC
+TSLA,TSLA,"Tesla, Inc.",Consumer Discretionary,2026-11-11 04:12 UTC
+TXN,TXN,Texas Instruments,Information Technology,2026-11-11 04:12 UTC
+TPL,TPL,Texas Pacific Land Corporation,Energy,2026-11-11 04:12 UTC
+TXT,TXT,Textron,Industrials,2026-11-11 04:12 UTC
+TMO,TMO,Thermo Fisher Scientific,Health Care,2026-11-11 04:12 UTC
+TJX,TJX,TJX Companies,Consumer Discretionary,2026-11-11 04:12 UTC
+TKO,TKO,TKO Group Holdings,Communication Services,2026-11-11 04:12 UTC
+TSCO,TSCO,Tractor Supply,Consumer Discretionary,2026-11-11 04:12 UTC
+TT,TT,Trane Technologies,Industrials,2026-11-11 04:12 UTC
+TDG,TDG,TransDigm Group,Industrials,2026-11-11 04:12 UTC
+TRV,TRV,Travelers Companies (The),Financials,2026-11-11 04:12 UTC
+TRMB,TRMB,Trimble Inc.,Information Technology,2026-11-11 04:12 UTC
+TFC,TFC,Truist Financial,Financials,2026-11-11 04:12 UTC
+TWLO,TWLO,Twilio,Information Technology,2026-11-11 04:12 UTC
+TYL,TYL,Tyler Technologies,Information Technology,2026-11-11 04:12 UTC
+TSN,TSN,Tyson Foods,Consumer Staples,2026-11-11 04:12 UTC
+USB,USB,U.S. Bancorp,Financials,2026-11-11 04:12 UTC
+UBER,UBER,Uber,Industrials,2026-11-11 04:12 UTC
+UDR,UDR,"UDR, Inc.",Real Estate,2026-11-11 04:12 UTC
+ULTA,ULTA,Ulta Beauty,Consumer Discretionary,2026-11-11 04:12 UTC
+UNP,UNP,Union Pacific Corporation,Industrials,2026-11-11 04:12 UTC
+UAL,UAL,United Airlines Holdings,Industrials,2026-11-11 04:12 UTC
+UPS,UPS,United Parcel Service,Industrials,2026-11-11 04:12 UTC
+URI,URI,United Rentals,Industrials,2026-11-11 04:12 UTC
+UNH,UNH,UnitedHealth Group,Health Care,2026-11-11 04:12 UTC
+UHS,UHS,Universal Health Services,Health Care,2026-11-11 04:12 UTC
+VLO,VLO,Valero Energy,Energy,2026-11-11 04:12 UTC
+VEEV,VEEV,Veeva Systems,Health Care,2026-11-11 04:12 UTC
+VTR,VTR,Ventas,Real Estate,2026-11-11 04:12 UTC
+VLTO,VLTO,Veralto,Industrials,2026-11-11 04:12 UTC
+VRSN,VRSN,Verisign,Information Technology,2026-11-11 04:12 UTC
+VRSK,VRSK,Verisk Analytics,Industrials,2026-11-11 04:12 UTC
+VZ,VZ,Verizon,Communication Services,2026-11-11 04:12 UTC
+VRTX,VRTX,Vertex Pharmaceuticals,Health Care,2026-11-11 04:12 UTC
+VRT,VRT,Vertiv,Industrials,2026-11-11 04:12 UTC
+VTRS,VTRS,Viatris,Health Care,2026-11-11 04:12 UTC
+VICI,VICI,Vici Properties,Real Estate,2026-11-11 04:12 UTC
+V,V,Visa Inc.,Financials,2026-11-11 04:12 UTC
+VST,VST,Vistra Corp.,Utilities,2026-11-11 04:12 UTC
+VMRK,VMRK,Vivmark Residential,Real Estate,2026-11-11 04:12 UTC
+VMC,VMC,Vulcan Materials Company,Materials,2026-11-11 04:12 UTC
+VYLR,VYLR,Vylor,Consumer Staples,2026-11-11 04:12 UTC
+WRB,WRB,W. R. Berkley Corporation,Financials,2026-11-11 04:12 UTC
+GWW,GWW,W. W. Grainger,Industrials,2026-11-11 04:12 UTC
+WAB,WAB,Wabtec,Industrials,2026-11-11 04:12 UTC
+WMT,WMT,Walmart,Consumer Staples,2026-11-11 04:12 UTC
+DIS,DIS,Walt Disney Company (The),Communication Services,2026-11-11 04:12 UTC
+WM,WM,Waste Management,Industrials,2026-11-11 04:12 UTC
+WAT,WAT,Waters Corporation,Health Care,2026-11-11 04:12 UTC
+WEC,WEC,WEC Energy Group,Utilities,2026-11-11 04:12 UTC
+WFC,WFC,Wells Fargo,Financials,2026-11-11 04:12 UTC
+WELL,WELL,Welltower,Real Estate,2026-11-11 04:12 UTC
+WST,WST,West Pharmaceutical Services,Health Care,2026-11-11 04:12 UTC
+WDC,WDC,Western Digital,Information Technology,2026-11-11 04:12 UTC
+WY,WY,Weyerhaeuser,Real Estate,2026-11-11 04:12 UTC
+WSM,WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,2026-11-11 04:12 UTC
+WMB,WMB,Williams Companies,Energy,2026-11-11 04:12 UTC
+WTW,WTW,Willis Towers Watson,Financials,2026-11-11 04:12 UTC
+WDAY,WDAY,"Workday, Inc.",Information Technology,2026-11-11 04:12 UTC
+WYNN,WYNN,Wynn Resorts,Consumer Discretionary,2026-11-11 04:12 UTC
+XEL,XEL,Xcel Energy,Utilities,2026-11-11 04:12 UTC
+XYL,XYL,Xylem Inc.,Industrials,2026-11-11 04:12 UTC
+YUM,YUM,Yum! Brands,Consumer Discretionary,2026-11-11 04:12 UTC
+ZBRA,ZBRA,Zebra Technologies,Information Technology,2026-11-11 04:12 UTC
+ZBH,ZBH,Zimmer Biomet,Health Care,2026-11-11 04:12 UTC
+ZTS,ZTS,Zoetis,Health Care,2026-11-11 04:12 UTC
