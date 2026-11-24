@@ -1,6 +1,6 @@
 **S&P 500 stock segmentation using adapted RFM (6BUIS017W CRM & CM, CWK1)**
 
-Individual coursework, University of Westminster / IIT. Student: S.R.G.Mangalaari (UOW W2151870, IIT 20232749).
+Individual coursework, University of Westminster / IIT. Student: S.R.G.Mangalaari ( W2151870, IIT 20232749).
 
 **What this repository contains**
 Task_1_2_and_3_cw_(20232749_W2151870).ipynb: the full Google Colab notebook (Task 1 data preparation, Task 2 clustering and sensitivity, Task 3 data mart and review). Saved with outputs.
